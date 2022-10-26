@@ -36,7 +36,7 @@ header {
 }
 /* Put a border around your image */
 .img {
- border: 10px dotted  rgb(130, 80, 160);
+ border: 10px dotted  rgb(130, 90, 160);
  padding: 0;
  display: block;
  margin: auto;
