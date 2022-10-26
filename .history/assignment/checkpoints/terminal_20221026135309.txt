@@ -19,12 +19,9 @@ On an empty folder, the terminal wont' return anything. On a folder with content
 touch
 
 # 7 - Run 'git --version' in your terminal. What is the output?
-git version 2.38.1
 
 # 8 - Why would you run the command 'git status'?
 
 # 9 - What does the command 'git add .' do?
 
-
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push origin main

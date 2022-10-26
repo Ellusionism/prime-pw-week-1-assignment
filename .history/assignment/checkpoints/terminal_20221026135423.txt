@@ -25,6 +25,5 @@ git version 2.38.1
 
 # 9 - What does the command 'git add .' do?
 
-
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git push origin main
