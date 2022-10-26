@@ -12,16 +12,16 @@ header {
 }
 /* Align the h1 containing your name in the center of the header*/
 .name {
- color:rgb(55, 55, 55);
+ color:rgb(50, 50, 50);
  text-align: center;
  margin: 0;
 }
 /* Make your p tag a different color and italic */
 .fav-quote {
- background-color:rgb(90, 130, 160);
+ background-color:rgb(90,130,160);
  margin: 10px 0 0;
  padding: 0.5%;
- color: rgb(55, 55, 55);
+ color: rgb(50, 50, 50);
  font-style: italic;
  text-align: center;
 }
@@ -45,7 +45,7 @@ header {
 }
 /* Change the font-family of your list */
 .facts {
- color: rgb(220, 220, 220);
+ color: rgb(190, 190, 190);
  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  position: absolute;
  top: 50%;
@@ -54,7 +54,7 @@ header {
 }
 
 .facts-list {
- color: rgb(220, 220, 220);
+ color: rgb(200,200,200);
  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  position: absolute;
  top: 50%;
