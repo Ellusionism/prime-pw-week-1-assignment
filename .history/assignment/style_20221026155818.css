@@ -1,0 +1,43 @@
+/* Give your page a fun background color */
+body {
+ background-color: rgb(150, 100, 130);
+ margin: 0;
+ font-family: Arial, Helvetica, sans-serif;
+}
+/* Make the header and footer a different color from the background */
+header {
+ background-color: rgb(90, 130, 160);
+}
+/* Align the h1 containing your name in the center of the header*/
+.name {
+ color:rgb(70, 70, 70);
+ text-align: center;
+ margin: 0;
+}
+/* Make your p tag a different color and italic */
+.fav-quote {
+ color: rgb(70, 70, 70);
+ font-style: italic;
+}
+/* Put a border around your image */
+.img {
+ border: 10px solid  rgb(130, 100, 150);
+ padding: 0;
+ display: block;
+ margin: 0 auto;
+ max-height: 100%;
+ max-width: 80%;
+}
+/* Change the font-family of your list */
+.fun-facts {
+ color: #fff;
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ 
+}
+ .container {
+  position: relative;
+  text-align: center;
+ }

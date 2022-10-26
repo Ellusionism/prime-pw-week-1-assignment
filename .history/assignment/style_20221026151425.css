@@ -1,0 +1,20 @@
+/* Give your page a fun background color */
+body {
+ background-color: rgb(150, 100, 130);
+}
+/* Make the header and footer a different color from the background */
+header {
+ background-color: rgb(90, 130, 160);
+}
+/* Align the h1 containing your name in the center of the header*/
+.name {
+ text-align: center;
+}
+/* Make your p tag a different color and italic */
+.fav-quote {
+ color: rgb(rgb(128, 128, 128));
+ text-transform: ita
+}
+/* Put a border around your image */
+
+/* Change the font-family of your list */
