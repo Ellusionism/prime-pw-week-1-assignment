@@ -13,7 +13,7 @@
 'mkdir'
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-On an empty folder, the terminal won't return anything. On a folder with content, it will list the content inside the current folder/directory.
+On an empty folder, the terminal wont' return anything. On a folder with content, it will list the content inside the current folder.
 
 # 6 - What is a quick way to create a new file?
 'touch'
