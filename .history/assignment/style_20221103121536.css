@@ -1,20 +1,20 @@
 /* Give your page a fun background color */
 body {
-  background-color: rgb(160, 100, 130);
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+ background-color: rgb(160, 100, 130);
+ margin: 0;
+ font-family: Arial, Helvetica, sans-serif;
 }
 /* Make the header and footer a different color from the background */
 header {
-  background-color: rgb(90, 120, 160);
-  margin: 0 0 10px;
-  padding: 1%;
+ background-color: rgb(90, 120, 160);
+ margin: 0 0 10px;
+ padding: 1%;
 }
 /* Align the h1 containing your name in the center of the header*/
 .name {
-  color:rgb(55, 55, 55);
-  text-align: center;
-  margin: 0;
+ color:rgb(55, 55, 55);
+ text-align: center;
+ margin: 0;
 }
 /* Make your p tag a different color and italic */
 .fav-quote {
@@ -70,7 +70,7 @@ header {
   margin-top: 5px;
 }
 
-.container {
-  position: relative;
-  text-align: center;
-}
+ .container {
+   position: relative;
+   text-align: center;
+ }
